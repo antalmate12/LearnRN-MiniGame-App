@@ -54,7 +54,6 @@ export default function App() {
 
   return (
     <LinearGradient
-      // Background Linear Gradient
       colors={[Colors.primary800, Colors.accent500]}
       style={styles.rootScreen}
     >
